@@ -1,0 +1,6 @@
+{
+  "name": "Voice Assistant",
+  "description": "Production-grade Android Voice Assistant architecture featuring a foreground service, tool-based Gemini intent engine, and modular system integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
